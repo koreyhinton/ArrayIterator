@@ -3,7 +3,7 @@
 //  LoopIteratorPageTestTests
 //
 //  Created by Korey Hinton on 3/23/15.
-//  Copyright (c) 2015 Innovasi. All rights reserved.
+//  Copyright (c) 2015 koreyhinton.com. All rights reserved.
 //
 
 import UIKit

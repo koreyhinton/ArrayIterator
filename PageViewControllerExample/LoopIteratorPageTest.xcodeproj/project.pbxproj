@@ -419,6 +419,7 @@
 				8E1036961AC02DE800756C68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E1036971AC02DE800756C68 /* Build configuration list for PBXNativeTarget "LoopIteratorPageTestTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +428,7 @@
 				8E1036991AC02DE800756C68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
